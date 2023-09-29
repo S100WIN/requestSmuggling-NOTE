@@ -1,1 +1,3 @@
-# requestSmuggling-NOTE
+# Uzak dur
+
+cloudflare,akamai,fastly
